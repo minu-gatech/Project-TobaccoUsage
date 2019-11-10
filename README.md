@@ -14,7 +14,7 @@ Skills Used:
 -----------
 Python, Pandas, Matplotlib, Scipy, Python API
 
-In a team of 3 members, My Role was to:
+Research Questions:
 --------------------------------------
 -Find the percentage of tobacco users across each state of US
 
@@ -25,6 +25,10 @@ In a team of 3 members, My Role was to:
 -Compare Current Smokers vs Former Smokers
 
 -Made an API call to identify the Average Percentage of Tobacco Users over the last 8 years
+
+-Does the income level lead to an increase or decrease in tobacco usage?
+
+-Is the usage of tobacco dependent on the education level of people?
 
 
 Summary Findings:
