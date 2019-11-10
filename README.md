@@ -14,10 +14,14 @@ Python, Pandas, Matplotlib, Scipy, Python API
 
 In a team of 3 members, My Role was to:
 --------------------------------------
--find the percentage of tobacco users across each state of US
--determine the US state having most tobacco usage
--percentage of male vs female tobacco users
--Compare Current Smokers vs Former Smokers-
+-Find the percentage of tobacco users across each state of US
+
+-Determine the US state having most tobacco usage
+
+-Calculate the Percentage of Male vs Female tobacco users
+
+-Compare Current Smokers vs Former Smokers
+
 -Made an API call to identify the Average Percentage of Tobacco Users over the last 8 years
 
 
