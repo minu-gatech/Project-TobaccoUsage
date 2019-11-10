@@ -32,6 +32,8 @@ Summary Findings:
 
 -Based on research & data analysis, we found that West Virginia (WV) has highest number of tobacco users (approx. 16.66%) and Utah(UT) has least number of tobacco users (approx. 6.27%)
 
+![Tobacco](Percentage_tobacco_users_per_state.png)
+
 -Then, we found out that tobacco usage is not uniform across gender. Adult males(62.7%) were significantly more likely to use tobacco than females(37.3%).    
 
 -Tobacco use (Smoke & Smokeless) has declined from 18.75% (nearly 19 of every 100 adults) to 14.47% (14 of every 100 adults) in the year 2018 across USA.
