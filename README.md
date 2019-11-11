@@ -42,15 +42,13 @@ Utah(UT) has least number of tobacco users (approx. 6.27%)
  ![TobaccoPerState](Percentage_tobacco_users_per_state.png)
 
 
-- Then, we found out that tobacco usage is not uniform across gender. Adult males(62.7%) were significantly more likely to use tobacco   
-  than females(37.3%).    
+- Then, we found out that tobacco usage is not uniform across gender. Adult males(62.7%) were significantly more likely to use tobacco than females(37.3%).    
 
 
  ![Gender](Distribution_Male_Female_Tobacco_Users_2018.png)
 
 
-- Tobacco use (Smoke & Smokeless) has declined from 18.75% (nearly 19 of every 100 adults) to 14.47% (14 of every 100 adults) in the  
-  year 2018 across USA.
+- Tobacco use (Smoke & Smokeless) has declined from 18.75% (nearly 19 of every 100 adults) to 14.47% (14 of every 100 adults) in the year 2018 across USA.
  
 
  ![Former](Percentage_Current_Former_Smokers_2018.png)
@@ -73,8 +71,7 @@ Utah(UT) has least number of tobacco users (approx. 6.27%)
  ![Income](Tobacco_Users_vs_Education_Level.png)
 
 
-- Based on the findings for 2018 there is a correlation between the number of tobacco users and their income. The analysis shows that  
-  the majority of tobacco users tend to have a lower income compared to those with a higher level income. 
+- Based on the findings for 2018 there is a correlation between the number of tobacco users and their income. The analysis shows that the majority of tobacco users tend to have a lower income compared to those with a higher level income. 
 
 
  ![Education](Income_of_Tobacco_Users.png)
