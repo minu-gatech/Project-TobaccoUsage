@@ -1,5 +1,5 @@
-Project: Tobacco Usage in USA
------------------------------
+#Project: Tobacco Usage in USA
+
 
 ![Tobacco](Images/Tobacco.jpg)
 
